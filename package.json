@@ -1,0 +1,10 @@
+{
+    "name": "Nodejs-DB",
+    "description": "Node.js example application",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "*",
+        "ejs": "*",
+        "mysql": "*"
+    }
+}
